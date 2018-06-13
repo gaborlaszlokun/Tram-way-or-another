@@ -39,7 +39,7 @@ for line in lines:
         index += 1
         tram_stations = tram_stations.append(line_df)
 
-tram_stations.to_csv("tram_stations.csv", index=False)
+#tram_stations.to_csv("tram_stations.csv", index=False)
 
 
 table = pd.pivot_table(tram_stations,index="station", columns="line",aggfunc=len, fill_value=0)
@@ -50,4 +50,8 @@ col_list= list(piv_df)
 piv_df["sum"]  = piv_df[col_list].sum(axis=1)
 
 print(piv_df)
-piv_df.to_csv("stations_and_lines.csv")
+#piv_df.to_csv("stations_and_lines.csv")
+
+core_stations = piv_df[piv_df["sum"] > 1]
+print(core_stations)
+core_stations.to_csv("core_stations.csv")
