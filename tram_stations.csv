@@ -1,0 +1,526 @@
+line,station
+1,Etele út / Fehérvári út
+1,Hengermalom út / Szerémi út
+1,Hauszmann Alajos utca / Szerémi út
+1,Budafoki út / Dombóvári út
+1,Infopark
+1,Közvágóhíd H
+1,Mester utca / Könyves Kálmán körút
+1,Ferencváros vá. - Málenkij Robot Eh.
+1,Albert Flórián út
+1,Népliget M
+1,Vajda Péter utca
+1,Kőbányai út / Könyves Kálmán körút
+1,Hidegkuti Nándor Stadion
+1,Hős utca
+1,Puskás Ferenc Stadion M
+1,Egressy út / Hungária körút
+1,Zugló vasútállomás
+1,Ajtósi Dürer sor
+1,"Erzsébet királyné útja, aluljáró"
+1,Kacsóh Pongrác út
+1,Vágány utca / Róbert Károly körút
+1,Lehel utca / Róbert Károly körút
+1,Honvédkórház
+1,Árpád híd M
+1,Népfürdő utca / Árpád híd
+1,Szentlélek tér H
+1,Flórián tér
+1,Óbudai rendelőintézet
+1,Bécsi út / Vörösvári út
+2,Jászai Mari tér
+2,"Országház, látogatóközpont"
+2,Kossuth Lajos tér M
+2,Széchenyi István tér
+2,Eötvös tér
+2,Vigadó tér
+2,Március 15. tér
+2,Fővám tér M
+2,Zsil utca
+2,Boráros tér H
+2,Haller utca / Soroksári út
+2,Müpa - Nemzeti Színház H
+2,Közvágóhíd H
+3,Mexikói út M
+3,"Erzsébet királyné útja, aluljáró"
+3,Laky Adolf utca
+3,Nagy Lajos király útja / Czobor utca
+3,Nagy Lajos király útja / Czobor utca
+3,Kerékgyártó utca
+3,Bosnyák tér
+3,Szugló utca / Nagy Lajos király útja
+3,Egressy tér
+3,Jeszenák János utca
+3,Pongrátz Gergely tér
+3,Tihamér utca
+3,Örs vezér tere M+H
+3,Örs vezér tere M+H
+3,Fehér úti ipari park
+3,Terebesi utca
+3,Élessarok
+3,Ónodi utca
+3,Szent László tér
+3,Kőbánya alsó vasútállomás
+3,Kocsis Sándor Sportközpont
+3,Fertő utca / Bihari utca
+3,Balkán utca
+3,Ecseri út M
+3,Közterületfenntartó Zrt.
+3,Csengettyű utca
+3,Epreserdő utca
+3,Nagykőrösi út / Határ út
+3,Mártírok útja / Határ út
+3,Jókai Mór utca / Határ út
+3,Ősz utca
+3,Gubacsi út / Határ út
+4,Széll Kálmán tér M
+4,Széna tér
+4,Mechwart liget
+4,"Margit híd, budai hídfő H"
+4,Margitsziget / Margit híd
+4,Jászai Mari tér
+4,Nyugati pályaudvar M
+4,Oktogon M
+4,Király utca / Erzsébet körút
+4,Wesselényi utca / Erzsébet körút
+4,Blaha Lujza tér M
+4,Rákóczi tér M
+4,Harminckettesek tere
+4,Corvin-negyed M
+4,Mester utca / Ferenc körút
+4,Boráros tér H
+4,"Petőfi híd, budai hídfő"
+4,Budafoki út / Szerémi sor
+4,Újbuda-központ M
+6,Széll Kálmán tér M
+6,Széna tér
+6,Mechwart liget
+6,"Margit híd, budai hídfő H"
+6,Margitsziget / Margit híd
+6,Jászai Mari tér
+6,Nyugati pályaudvar M
+6,Oktogon M
+6,Király utca / Erzsébet körút
+6,Wesselényi utca / Erzsébet körút
+6,Blaha Lujza tér M
+6,Rákóczi tér M
+6,Harminckettesek tere
+6,Corvin-negyed M
+6,Mester utca / Ferenc körút
+6,Boráros tér H
+6,"Petőfi híd, budai hídfő"
+6,Budafoki út / Karinthy Frigyes út
+6,Móricz Zsigmond körtér M
+12M,Lehel tér M
+12M,Dévai utca
+12M,Lehel utca / Dózsa György út
+12M,Hun utca
+12M,Lehel utca / Róbert Károly körút
+12M,Béke tér
+12M,Frangepán utca
+12M,Fiastyúk utca
+12M,Rokolya utca
+12M,Gyöngyösi utca
+12M,Angyalföld vasútállomás
+12M,Angyalföld kocsiszín
+12M,Tél utca / Pozsonyi utca
+12M,Újpest-Központ M
+12M,Szent István tér (Újpesti piac)
+12M,Kiss Ernő utca
+12M,Újpesti rendelőintézet
+12M,Szülőotthon
+12M,Rákospalota-Újpest vasútállomás
+12M,Géza fejedelem tér
+12M,Fő út
+12M,"Rákospalota, Kossuth utca"
+14M,Lehel tér M
+14M,Dévai utca
+14M,Lehel utca / Dózsa György út
+14M,Hun utca
+14M,Lehel utca / Róbert Károly körút
+14M,Béke tér
+14M,Frangepán utca
+14M,Fiastyúk utca
+14M,Rokolya utca
+14M,Gyöngyösi utca
+14M,Angyalföld vasútállomás
+14M,Angyalföld kocsiszín
+14M,Tél utca / Pozsonyi utca
+14M,Újpest-Központ M
+14M,Szent István tér (Újpesti piac)
+14M,Kiss Ernő utca
+14M,Újpesti rendelőintézet
+14M,Szülőotthon
+14M,Rákospalota-Újpest vasútállomás
+14M,Atlétikai stadion
+14M,Óceán-árok utca
+14M,Járműtelep utca
+14M,Bőröndös utca
+14M,Bőrfestő utca
+14M,"Káposztásmegyer, Megyeri út"
+17,Etele út / Fehérvári út
+17,Hauszmann Alajos utca
+17,Csonka János tér
+17,Újbuda-központ M
+17,Móricz Zsigmond körtér M
+17,Móricz Zsigmond körtér M
+17,Tas vezér utca
+17,Szüret utca
+17,Pető Intézet (Villányi út)
+17,Alsóhegy utca
+17,Budaörsi út / Villányi út
+17,BAH-csomópont
+17,Csörsz utca
+17,Királyhágó utca
+17,Nagyenyed utca
+17,Déli pályaudvar M
+17,Széll Kálmán tér M
+17,Széna tér
+17,Mechwart liget
+17,"Margit híd, budai hídfő H"
+17,Szent Lukács Gyógyfürdő
+17,Komjádi Béla utca
+17,Zsigmond tér
+17,Kolosy tér
+17,Katinyi mártírok parkja
+17,Selmeci utca
+17,Szent Margit Kórház
+17,Váradi utca
+17,Bécsi út / Vörösvári út
+17,Bécsi út / Vörösvári út
+19,Bécsi út / Vörösvári út
+19,Váradi utca
+19,Szent Margit Kórház
+19,Selmeci utca
+19,Katinyi mártírok parkja
+19,Kolosy tér
+19,Zsigmond tér
+19,Komjádi Béla utca
+19,Szent Lukács Gyógyfürdő
+19,"Margit híd, budai hídfő H"
+19,Bem József tér
+19,Batthyány tér M+H
+19,Halász utca
+19,Clark Ádám tér
+19,Várkert Bazár
+19,Rudas Gyógyfürdő
+19,Szent Gellért tér M
+19,Gárdonyi tér
+19,Móricz Zsigmond körtér M
+19,Kosztolányi Dezső tér
+19,Karolina út
+19,Csóka utca
+19,Szent Gellért-templom
+19,Kelenföld vasútállomás M
+24,Keleti pályaudvar M
+24,Dologház utca
+24,Magdolna utca
+24,Orczy tér
+24,Golgota tér
+24,Elnök utca
+24,Nagyvárad tér M
+24,Balázs Béla utca
+24,Haller utca / Mester utca
+24,Haller utca / Soroksári út
+24,Müpa - Nemzeti Színház H
+24,Közvágóhíd H
+28,Blaha Lujza tér M (Népszínház utca)
+28,II. János Pál pápa tér M
+28,Teleki László tér
+28,Magdolna utca
+28,Orczy tér
+28,Kőbányai út 21.
+28,Kőbányai út 31.
+28,Kőbányai út / Könyves Kálmán körút
+28,Északi Járműjavító
+28,Egészségház
+28,Mázsa utca
+28,Kőbánya alsó vasútállomás
+28,Szent László tér
+28,Ónodi utca
+28,Élessarok
+28,Sörgyár
+28,Jászberényi út / Maglódi út
+28,Gitár utca
+28,Kocka utca
+28,Kada utca / Maglódi út
+28,Bajcsy-Zsilinszky Kórház
+28,Venyige utca
+28,Sírkert út
+28,Új köztemető
+28,Új köztemető (Kozma utca)
+28,Izraelita temető
+37,Blaha Lujza tér M (Népszínház utca)
+37,II. János Pál pápa tér M
+37,Teleki László tér
+37,Magdolna utca
+37,"Salgótarjáni utca, temető"
+37,Asztalos Sándor út
+37,Hidegkuti Nándor Stadion
+37,Kőbányai garázs
+37,Pongrácz úti lakótelep
+37,Őrház
+37,Halom utca
+37,Kőbánya felső vasútállomás
+37,Élessarok
+37,Sörgyár
+37,Jászberényi út / Maglódi út
+37,Gitár utca
+37,Kocka utca
+37,Kada utca / Maglódi út
+37,Bajcsy-Zsilinszky Kórház
+37,Venyige utca
+37,Sírkert út
+37,Új köztemető
+37,Új köztemető (Kozma utca)
+41,Bécsi út / Vörösvári út
+41,Váradi utca
+41,Szent Margit Kórház
+41,Selmeci utca
+41,Katinyi mártírok parkja
+41,Kolosy tér
+41,Zsigmond tér
+41,Komjádi Béla utca
+41,Szent Lukács Gyógyfürdő
+41,"Margit híd, budai hídfő H"
+41,Bem József tér
+41,Batthyány tér M+H
+41,Halász utca
+41,Clark Ádám tér
+41,Várkert Bazár
+41,Rudas Gyógyfürdő
+41,Szent Gellért tér M
+41,Gárdonyi tér
+41,Móricz Zsigmond körtér M
+41,Újbuda-központ M
+41,Csonka János tér
+41,Hauszmann Alajos utca
+41,Etele út / Fehérvári út
+42,Határ út M
+42,Corvin körút
+42,Hungária út
+42,Templom tér
+42,Kossuth Lajos utca
+42,Vas Gereben utca
+42,"Kispest, Tulipán utca"
+47,Deák Ferenc tér M
+47,Astoria M
+47,Kálvin tér M
+47,Fővám tér M
+47,Szent Gellért tér M
+47,Gárdonyi tér
+47,Móricz Zsigmond körtér M
+47,Újbuda-központ M
+47,Csonka János tér
+47,Hauszmann Alajos utca
+47,Etele út / Fehérvári út
+48,Deák Ferenc tér M
+48,Astoria M
+48,Kálvin tér M
+48,Fővám tér M
+48,Szent Gellért tér M
+48,Gárdonyi tér
+48,Móricz Zsigmond körtér M
+48,Újbuda-központ M
+48,Csonka János tér
+48,Hauszmann Alajos utca
+48,Etele út / Fehérvári út
+48,Kalotaszeg utca
+48,Andor utca
+48,Albertfalva kitérő
+48,Albertfalva utca
+48,Fonyód utca
+48,Budafok kocsiszín
+48,Savoya Park
+49,Deák Ferenc tér M
+49,Astoria M
+49,Kálvin tér M
+49,Fővám tér M
+49,Szent Gellért tér M
+49,Gárdonyi tér
+49,Móricz Zsigmond körtér M
+49,Kosztolányi Dezső tér
+49,Karolina út
+49,Csóka utca
+49,Szent Gellért-templom
+49,Kelenföld vasútállomás M
+50,Határ út M
+50,Corvin körút
+50,Lehel utca
+50,Kossuth tér
+50,Fő utca
+50,Árpád utca
+50,Villanytelep
+50,Lajosmizsei sorompó
+50,Tinódi utca
+50,Margó Tivadar utca
+50,Kemény Zsigmond utca
+50,Baross utca
+50,Thököly út
+50,Szarvas csárda tér
+50,Madarász utca
+50,Iparvasút
+50,Honvéd utca
+50,Bajcsy-Zsilinszky út
+50,Ungvár utca
+50,"Pestszentlőrinc, Béke tér"
+51,Mester utca / Ferenc körút
+51,Bokréta utca
+51,Ferencvárosi rendelőintézet
+51,Haller utca / Mester utca
+51,Vágóhíd utca
+51,Mester utca / Könyves Kálmán körút
+51,Koppány utca
+51,Hentes utca
+51,Magyar Aszfalt
+51,Kén utca
+51,Illatos út
+51,Timót utca
+51,Fegyvergyár utca
+51,Gubacsi út / Határ út
+51,Török Flóris utca
+51,János tér
+51,Kossuth Lajos utca
+51,Nagysándor József utca
+52,Határ út M
+52,Mészáros Lőrinc utca
+52,Nagykőrösi út / Határ út
+52,Mártírok útja / Határ út
+52,Jókai Mór utca / Határ út
+52,Ősz utca
+52,Török Flóris utca
+52,János tér
+52,Kossuth Lajos utca
+52,Nagysándor József utca
+52,Vörösmarty utca
+52,Pöltenberg utca
+52,Klapka utca
+52,Akácfa utca
+52,Károly utca
+52,Ábrahám Géza utca
+52,"Pesterzsébet, Pacsirtatelep"
+56,Hűvösvölgy
+56,Heinrich István utca
+56,Völgy utca
+56,Vadaskerti utca
+56,Nagyhíd
+56,Zuhatag sor
+56,Kelemen László utca
+56,Akadémia
+56,Budagyöngye
+56,Nagyajtai utca
+56,Szent János Kórház
+56,Városmajor
+56,Nyúl utca
+56,Széll Kálmán tér M
+56,Déli pályaudvar M
+56,Mikó utca
+56,Krisztina tér
+56,Dózsa György tér
+56,Döbrentei tér
+56,Rudas Gyógyfürdő
+56,Szent Gellért tér M
+56,Gárdonyi tér
+56,Móricz Zsigmond körtér M
+56,Kosztolányi Dezső tér
+56,Karolina út
+56,Csóka utca
+59,Szent János Kórház
+59,Városmajor
+59,Nyúl utca
+59,Széll Kálmán tér M
+59,Déli pályaudvar M
+59,Kék Golyó utca
+59,Királyhágó tér
+59,Kiss János altábornagy utca
+59,Apor Vilmos tér
+59,Zólyomi lépcső
+59,Vas Gereben utca
+59,Liptó utca
+59,Farkasréti temető
+59,Süveg utca
+59,Márton Áron tér
+60,Városmajor
+60,Szent János Kórház
+60,Orgonás
+60,Esze Tamás iskola
+60,Erdei iskola
+60,Adonis utca
+60,Városkút
+60,Svábhegy
+60,Művész út
+60,"Széchenyi-hegy, Gyermekvasút"
+61,Hűvösvölgy
+61,Heinrich István utca
+61,Völgy utca
+61,Vadaskerti utca
+61,Nagyhíd
+61,Zuhatag sor
+61,Kelemen László utca
+61,Akadémia
+61,Budagyöngye
+61,Nagyajtai utca
+61,Szent János Kórház
+61,Városmajor
+61,Nyúl utca
+61,Széll Kálmán tér M
+61,Déli pályaudvar M
+61,Nagyenyed utca
+61,Királyhágó utca
+61,Csörsz utca
+61,BAH-csomópont
+61,Budaörsi út / Villányi út
+61,Alsóhegy utca
+61,Pető Intézet (Villányi út)
+61,Szüret utca
+61,Tas vezér utca
+61,Móricz Zsigmond körtér M
+61,Móricz Zsigmond körtér M
+62,Blaha Lujza tér M (Népszínház utca)
+62,II. János Pál pápa tér M
+62,Teleki László tér
+62,Magdolna utca
+62,Orczy tér
+62,Kőbányai út 21.
+62,Kőbányai út 31.
+62,Kőbányai út / Könyves Kálmán körút
+62,Északi Járműjavító
+62,Egészségház
+62,Mázsa utca
+62,Kőbánya alsó vasútállomás
+62,Szent László tér
+62,Ónodi utca
+62,Élessarok
+62,Terebesi utca
+62,Fehér úti ipari park
+62,Örs vezér tere M+H
+62,Örs vezér tere M+H
+62,Tihamér utca
+62,Pongrátz Gergely tér
+62,Jeszenák János utca
+62,Egressy tér
+62,Szugló utca / Nagy Lajos király útja
+62,Bosnyák tér
+62,Kerékgyártó utca
+62,Nagy Lajos király útja / Czobor utca
+62,Fűrész utca
+62,Rákospatak utca
+62,Miskolci utca
+62,Öv utca
+62,Tóth István utca
+62,"Rákospalota, MÁV-telep"
+69,Mexikói út M
+69,"Erzsébet királyné útja, aluljáró"
+69,Laky Adolf utca
+69,Nagy Lajos király útja / Czobor utca
+69,Fűrész utca
+69,Rákospatak utca
+69,Miskolci utca
+69,Öv utca
+69,Tóth István utca
+69,"Rákospalota, MÁV-telep"
+69,Szerencs utca / Bánkút utca
+69,Sárfű utca
+69,Vásárcsarnok
+69,Fő tér
+69,"Újpalota, Erdőkerülő utca"
