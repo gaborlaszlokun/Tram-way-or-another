@@ -73,8 +73,8 @@ def collect_schedule(date):
                         times = str(times[0].getText().encode('ascii', 'ignore').decode("utf-8")).replace("  ",",").replace(",,","").replace("\n","").replace("\r","")[:-1]
                         times = times.split(",")
                         for time in times:
-                            print(url.split("/")[-1], line, direction, station, lat, lon, time)
-                            line_df = pd.DataFrame([[url.split("/")[-1], line, direction, station, lat, lon, time]], columns=columns, index = [index])
+                            print(url.split("/")[-1], line, station, direction, lat, lon, time)
+                            line_df = pd.DataFrame([[url.split("/")[-1], line, station, direction, lat, lon, time]], columns=columns, index = [index])
                             index += 1
                             schedule = schedule.append(line_df)
         except:
